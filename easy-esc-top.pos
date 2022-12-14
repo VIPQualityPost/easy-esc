@@ -1,0 +1,50 @@
+### Module positions - created on Tuesday, December 13, 2022 at 01:42:15 PM ###
+### Printed by Pcbnew version (6.0.9-0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                       PosX       PosY       Rot  Side
+C101      100nF                    C_0402_1005Metric                         140.4620  -110.2360    0.0000  top
+C102      100nF                    C_0402_1005Metric                         132.0800  -111.7600  180.0000  top
+C103      100nF                    C_0402_1005Metric                         140.4620  -111.5060  180.0000  top
+C104      10uF                     C_0402_1005Metric                         127.0000  -129.2860   45.0000  top
+C105      10uF                     C_0402_1005Metric                         135.1280  -108.4580   90.0000  top
+C106      1uF                      C_0402_1005Metric                         129.5400  -129.2860  135.0000  top
+C107      20pF                     C_0402_1005Metric                         128.2700  -116.8400  135.0000  top
+C108      20pF                     C_0402_1005Metric                         127.2540  -121.4120  -135.0000  top
+C109      1uF                      C_0402_1005Metric                         139.4460  -120.6500  -135.0000  top
+C110      10nF                     C_0402_1005Metric                         139.1920  -128.0160  135.0000  top
+C111      100nF                    C_0402_1005Metric                         136.9060  -117.6020  -135.0000  top
+C112      1uF                      C_0402_1005Metric                         140.9700  -128.0160  135.0000  top
+C113      100uF                    CP_Elec_4x3.9                             137.4140  -105.6640   90.0000  top
+D101      LED                      D_0603_1608Metric                         139.9540  -114.3000  180.0000  top
+D102      LED                      D_0603_1608Metric                         130.3020  -116.5860  -45.0000  top
+H101      PCB                      easy-esc-outline                          133.0960  -120.3960    0.0000  top
+J101      USB_C_Receptacle_USB2.0  USB_C_Receptacle_HRO_TYPE-C-31-M-12       133.3500  -135.8900    0.0000  top
+J102      BLDC                     JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal   127.5080  -111.5060  180.0000  top
+J103      POWER                    JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal   149.6060  -111.4000  180.0000  top
+R101      10k                      R_0402_1005Metric                         140.4620  -112.7760    0.0000  top
+R102      10k                      R_0402_1005Metric                         135.1280  -115.8240  -135.0000  top
+R103      5.1k                     R_0402_1005Metric                         131.5720  -129.2860  135.0000  top
+R104      5.1k                     R_0402_1005Metric                         138.1760  -129.5400   45.0000  top
+R105      100m                     R_2512_6332Metric                         132.5880  -105.6640   90.0000  top
+R106      100m                     R_2512_6332Metric                         141.9860  -105.6640   90.0000  top
+R107      10k                      R_0402_1005Metric                         131.0640  -115.0620  135.0000  top
+R108      1k                       R_0402_1005Metric                         147.3200  -132.8420  180.0000  top
+R109      1k                       R_0402_1005Metric                         125.9840  -128.2700  -135.0000  top
+R110      27R                      R_0603_1608Metric                         135.1280  -128.0160  -135.0000  top
+R111      27R                      R_0603_1608Metric                         136.6520  -128.7780  -135.0000  top
+R112      10k                      R_0402_1005Metric                         121.1580  -125.9840  135.0000  top
+R113      0                        R_0402_1005Metric                         132.5880  -107.1880    0.0000  top
+R114      0                        R_0402_1005Metric                         141.9860  -107.1880    0.0000  top
+RV101     50k                      Potentiometer_Bourns_3314J_Vertical       123.9520  -123.9520   45.0000  top
+SW101     BOOT                     TS-1187A-B-A-B                            143.0020  -134.6200   90.0000  top
+SW102     RESET                    TS-1187A-B-A-B                            123.1900  -134.6680  -90.0000  top
+SW103     EN                       JS202011JCQN                              147.3200  -117.8560  -90.0000  top
+U101      TMC6300                  QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm     135.8900  -111.7600    0.0000  top
+U102      XC6206                   SOT-23                                    122.6820  -129.2860  -45.0000  top
+U103      W25Q128JVS               SOIC-8_5.23x5.23mm_P1.27mm                149.0980  -127.2540  -90.0000  top
+U104      RP2040                   QFN40P700X700X90-57N                      133.3500  -122.6820  -135.0000  top
+U105      INA180A1                 SOT-23-5                                  140.4620  -117.3480  -90.0000  top
+U106      INA180A1                 SOT-23-5                                  144.0180  -117.3480  -90.0000  top
+Y101      12MHz                    Crystal_SMD_3225-4Pin_3.2x2.5mm           126.2380  -118.8720  -135.0000  top
+## End
