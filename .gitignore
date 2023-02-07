@@ -1,0 +1,4 @@
+*.kicad_pcb
+fab-files/
+assembly-files/
+*.gbrjob
