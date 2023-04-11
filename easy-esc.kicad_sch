@@ -4095,7 +4095,7 @@
     (property "Reference" "R107" (id 0) (at 195.58 115.5699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10k" (id 1) (at 195.58 118.1099 0)
+    (property "Value" "1k" (id 1) (at 195.58 118.1099 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 198.12 116.84 0)
@@ -4924,7 +4924,7 @@
       (reference "R106") (unit 1) (value "100m") (footprint "Resistor_SMD:R_2512_6332Metric")
     )
     (path "/986fd365-1496-494b-911d-7d7788ddbcba"
-      (reference "R107") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R107") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/a02a4c82-9ae4-4628-bd1b-9900d4169020"
       (reference "R108") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
